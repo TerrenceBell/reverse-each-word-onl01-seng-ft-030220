@@ -1,4 +1,5 @@
-def reverse_each_word(phrase)
+def reverse_each_word(string)
   empty_array = []
-phrase.reverse
+  string.split(",").collect
+  
 end
