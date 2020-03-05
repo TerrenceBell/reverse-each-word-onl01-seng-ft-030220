@@ -5,3 +5,4 @@ empty_array.each do |string|
   array.push(string.reverse)
 end
  array.join(" ")
+ end
